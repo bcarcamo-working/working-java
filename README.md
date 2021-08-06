@@ -36,7 +36,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_Debes tener instaldo eclipse y jdk 1.8 los ejercicios estan construidos en esta version ya que comence a desarrollarlos en el año 2018_
+_Debes tener instalando eclipse y jdk 1.8 los ejercicios estan construidos en esta version ya que comence a desarrollarlos en el año 2018_
 
 ```
 Puedes descargar de aca jdk 1.8 = https://www.oracle.com/cl/java/technologies/javase/javase-jdk8-downloads.html
